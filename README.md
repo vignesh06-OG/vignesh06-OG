@@ -1,8 +1,6 @@
 <div align="center">
 
-# 
-
-![Portrait](assets/portrait.svg)
+![Vignesh Gandhi - Developer Portrait](assets/portrait.svg)
 
 ### VIGNESH GANDHI
 **Engineer • Builder • Problem Solver**
@@ -11,13 +9,13 @@ Crafting elegant solutions to complex problems. Full-stack developer with depth 
 
 <p>
   <a href="https://github.com/vignesh06-OG" target="_blank" style="text-decoration: none; margin: 0 12px;">
-    <code style="background: rgba(0, 212, 255, 0.1); padding: 4px 8px; border-radius: 3px; color: #00d4ff;">GitHub</code>
+    <code style="background: rgba(0, 212, 255, 0.1); padding: 4px 8px; border-radius: 3px; color: #00d4ff; font-size: 12px;">GitHub</code>
   </a>
   <a href="mailto:gandhivighnesh415@gmail.com" target="_blank" style="text-decoration: none; margin: 0 12px;">
-    <code style="background: rgba(0, 212, 255, 0.1); padding: 4px 8px; border-radius: 3px; color: #00d4ff;">Email</code>
+    <code style="background: rgba(0, 212, 255, 0.1); padding: 4px 8px; border-radius: 3px; color: #00d4ff; font-size: 12px;">Email</code>
   </a>
   <a href="https://linkedin.com/in/vignesh06-og" target="_blank" style="text-decoration: none; margin: 0 12px;">
-    <code style="background: rgba(0, 212, 255, 0.1); padding: 4px 8px; border-radius: 3px; color: #00d4ff;">LinkedIn</code>
+    <code style="background: rgba(0, 212, 255, 0.1); padding: 4px 8px; border-radius: 3px; color: #00d4ff; font-size: 12px;">LinkedIn</code>
   </a>
 </p>
 
@@ -103,25 +101,19 @@ TypeScript strict · ESLint · Playwright · GitHub Actions · Lighthouse · Bun
 
 ---
 
-## APPROACH
+## ENGINEERING PHILOSOPHY
 
-**Engineering Discipline**
-- Deterministic systems over probabilistic approximations
-- Domain-driven architecture separating business logic from presentation
-- Exhaustive validation where correctness matters (solvers, accessibility)
-- Explainability built in, not bolted on
+**Determinism Over Approximation**  
+When correctness matters, exhaustive validation wins. BFS solvers, not heuristics. Deterministic replay, not probabilistic sampling.
 
-**User Focus**
-- Geographic/spatial context when it exists (SurvivaLoop, PRISM)
-- Human authority over autonomous decisions (Resolve 90)
-- Evidence over scores (TalentLens)
-- Accessibility as a first-class concern
+**Domain-Driven Architecture**  
+Clean separation of business logic from presentation. Ports and adapters. Testable, maintainable, scalable.
 
-**Quality**
-- Comprehensive testing (unit, integration, E2E, accessibility)
-- Strict TypeScript with maximum compiler safety
-- No external service dependencies when possible
-- Production-ready error handling and edge cases
+**Explainability Built In**  
+Not bolted on. Every score carries evidence, every decision shows reasoning, every recommendation is auditable.
+
+**Accessibility as First-Class**  
+Not an afterthought. Color-blind modes, keyboard navigation, reduced motion, WCAG standards from day one.
 
 ---
 
