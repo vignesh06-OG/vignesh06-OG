@@ -1,112 +1,148 @@
 <div align="center">
 
-![Portrait](portrait.svg)
+# 
 
-# Vignesh Gandhi
+![Portrait](assets/portrait.svg)
 
-**Full-Stack Engineer | Open Source Contributor | Tech Enthusiast**
+### VIGNESH GANDHI
+**Engineer • Builder • Problem Solver**
+
+Crafting elegant solutions to complex problems. Full-stack developer with depth in AI/ML, deterministic systems, and user-centered design.
 
 <p>
-  <a href="https://github.com/vignesh06-OG" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-vignesh06--OG-00d9ff?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/vignesh06-OG" target="_blank" style="text-decoration: none; margin: 0 12px;">
+    <code style="background: rgba(0, 212, 255, 0.1); padding: 4px 8px; border-radius: 3px; color: #00d4ff;">GitHub</code>
   </a>
-  <a href="mailto:gandhivighnesh415@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-00d9ff?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:gandhivighnesh415@gmail.com" target="_blank" style="text-decoration: none; margin: 0 12px;">
+    <code style="background: rgba(0, 212, 255, 0.1); padding: 4px 8px; border-radius: 3px; color: #00d4ff;">Email</code>
   </a>
-  <a href="https://twitter.com/vignesh06og" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%40vignesh06og-00d9ff?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://linkedin.com/in/vignesh06-og" target="_blank" style="text-decoration: none; margin: 0 12px;">
+    <code style="background: rgba(0, 212, 255, 0.1); padding: 4px 8px; border-radius: 3px; color: #00d4ff;">LinkedIn</code>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+</div>
 
-I'm a developer passionate about building scalable, elegant solutions that solve real problems. I specialize in full-stack development with a focus on clean code, modern architecture, and user-centered design. When I'm not coding, I'm exploring new technologies, contributing to open-source projects, and sharing knowledge with the dev community.
+## SELECTED WORK
 
-**Currently:** Exploring cloud-native architecture, microservices patterns, and DevOps practices.
+### **PRISM — Light-Refraction Logic Puzzle Platform**
 
----
+A deterministic optical logic puzzle engine with 13 hand-built campaign levels, three real-world physics field missions, and an ML-powered difficulty estimation system.
 
-## 💻 Tech Stack
+**Technical Depth:**
+- Deterministic beam engine with complete light simulation (reflection, dispersion, color mixing, total internal reflection)
+- Exhaustive BFS solver validating every puzzle with proven optimal solutions
+- PhotonMind: distillation ML model (ridge regression) for difficulty prediction with explainability
+- Living rulebook: unlocks 7 optical laws only when player discovers them
+- Field missions: real geometric calculations (Snell's law, minimum deviation)
+- Full accessibility: color-blind glyphs, keyboard play, reduced-motion, WCAG-tested
+- React 19 · TanStack Start · SVG rendering · Tailwind v4 · localStorage + Postgres backend
 
-### 🔤 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**Demo:** [brain-game-blitz.vercel.app](https://brain-game-blitz.vercel.app/)  
+**Code:** [github.com/vignesh06-OG/prism](https://github.com/vignesh06-OG/prism)
 
 ---
 
-## 📌 Featured Projects
+### **Resolve 90 — AI Stadium Incident Command**
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Portfolio README** | Professional GitHub profile with particle-art portrait and tech showcase | SVG, Markdown |
-| Your Projects Here | Add your best and most interesting projects | — |
+A grounded GenAI incident-to-action compiler that turns fragmented signals into auditable, human-approved intervention plans under 90 seconds.
 
-*👉 Check out my repositories for more work and experiments*
+**Technical Depth:**
+- Domain-driven architecture: presentation ↔ application ↔ domain (ports/adapters)
+- Responsible AI: schema validation, guardrail challenge, counterfactuals, explainability
+- Evidence narrative: every recommendation includes evidence, alternatives, confidence, ownership
+- Quality gates: strict TypeScript, E2E tests, Lighthouse thresholds, bundle budgets, coverage >95%
+- WCAG 2.2 AA accessibility · structured generation to Gemini with fallback replay mode
+- React · Vite · TypeScript strict · Zod · Playwright · GitHub Actions CI/CD
+
+**Key Features:**
+- Deterministic replay mode for offline reproducible judging
+- Decision chain: signals → grounding → generation → guardrails → counterfactuals → approval
+- Live demo with realistic stadium disruption scenario
+
+**Code:** [github.com/vignesh06-OG/resolve-90](https://github.com/vignesh06-OG/resolve-90)
 
 ---
 
-## 📊 GitHub Statistics
+### **TalentLens AI — Recruiter-Trustable Candidate Discovery**
+
+An AI recruiting engine that ranks talent through semantic matching, trust scoring, and explainable counterfactual reasoning. Zero backend. Zero external dependencies. Browser-only.
+
+**Technical Depth:**
+- Deep JD parser: extracts skills, seniority, years, must-have vs nice-to-have, domain
+- 100+ node skill ontology with aliases: `k8s → kubernetes`, `GenAI → LLM`, etc.
+- Trust Engine: confidence %, evidence coverage %, risk level, discovery potential
+- 4-signal ranking: semantic fit + experience + career trajectory + activity signals
+- Counterfactual analysis: "Why not #1?" with estimated score gain and potential rank
+- ATS vs TalentLens comparison: exposes hidden talent missed by keyword filtering
+- Vanilla JS · HTML · CSS · zero dependencies · client-side only · 19 passing tests
+
+**Demo:** [talen-tlens-ai.vercel.app](https://talen-tlens-ai.vercel.app/)  
+**Code:** [github.com/vignesh06-OG/TALENTlens-AI](https://github.com/vignesh06-OG/TALENTlens-AI)
+
+---
+
+## TECH STACK
+
+**Languages**  
+C++ · C · Python · TypeScript · JavaScript · HTML · CSS
+
+**Frontend**  
+React · Next.js · TanStack Start/Router · Tailwind CSS · Motion for React · SVG
+
+**Backend & AI/ML**  
+Node.js · Express · Python (scikit-learn, numpy) · Gemini API · Ridge Regression · BFS Algorithms
+
+**Data & Infrastructure**  
+PostgreSQL · SQLite · localStorage · Zod (validation) · JOSE (auth)
+
+**Quality & DevOps**  
+TypeScript strict · ESLint · Playwright · GitHub Actions · Lighthouse · Bundle analysis · Docker
+
+---
+
+## APPROACH
+
+**Engineering Discipline**
+- Deterministic systems over probabilistic approximations
+- Domain-driven architecture separating business logic from presentation
+- Exhaustive validation where correctness matters (solvers, accessibility)
+- Explainability built in, not bolted on
+
+**User Focus**
+- Geographic/spatial context when it exists (SurvivaLoop, PRISM)
+- Human authority over autonomous decisions (Resolve 90)
+- Evidence over scores (TalentLens)
+- Accessibility as a first-class concern
+
+**Quality**
+- Comprehensive testing (unit, integration, E2E, accessibility)
+- Strict TypeScript with maximum compiler safety
+- No external service dependencies when possible
+- Production-ready error handling and edge cases
+
+---
+
+## INTERESTS
+
+🔭 **Currently Exploring**
+- Optical simulation and physics-based puzzles
+- Responsible AI governance and decision support
+- Deterministic algorithms and mathematical rigor
+- Accessible design for complex interfaces
+
+🌱 **Passionate About**
+- Clean architecture and maintainable systems
+- AI explainability and trust
+- Developer tooling and productivity
+- Open source and community
+
+---
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vignesh06-OG&show_icons=true&theme=dark&bg_color=0a0e27&text_color=00d9ff&title_color=00d9ff&border_color=0099cc&hide_border=false&count_private=true)](https://github.com/vignesh06-OG)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh06-OG&layout=compact&theme=dark&bg_color=0a0e27&text_color=00d9ff&title_color=00d9ff&border_color=0099cc&hide_border=false)](https://github.com/vignesh06-OG)
+**Building systems with intention. Code with craft.**
 
 </div>
-
----
-
-## 🎯 What I'm Focused On
-
-- 🔭 Building production-ready full-stack applications
-- 🌱 Mastering system design and scalable architecture
-- 🤝 Collaborating on open-source and innovative projects
-- 💡 Continuously learning and experimenting with emerging technologies
-- 📚 Sharing knowledge and helping the developer community
-
----
-
-## 💬 Let's Connect
-
-I'm always open to interesting conversations about technology, potential collaborations, or just geeking out about the latest dev trends.
-
-- **Email:** gandhivighnesh415@gmail.com
-- **GitHub:** [@vignesh06-OG](https://github.com/vignesh06-OG)
-- **Location:** 🇮🇳 India
-
----
-
-<div align="center">
-
-**Made with ❤️ by Vignesh**
-
-*"Code is poetry, and good architecture is its rhythm."*
-
-</div>
-
