@@ -10,9 +10,6 @@
   <a href="https://github.com/vignesh06-OG">
     <img src="https://img.shields.io/badge/GitHub-vignesh06--OG-00d9ff?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/vignesh06-og">
-    <img src="https://img.shields.io/badge/LinkedIn-Vignesh-0099cc?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:gandhivighnesh415@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-00d9ff?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -57,10 +54,10 @@ I'm a passionate developer focused on building scalable, maintainable solutions.
 
 ## 📌 Featured Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **Portfolio README** | Professional GitHub profile with dot-art portrait | [View](https://github.com/vignesh06-OG/vignesh06-OG) |
-| Explore your repos | Showcase your best work here | [Edit Profile](https://github.com/settings/profile) |
+| Project | Description |
+|---------|-------------|
+| **Portfolio README** | Professional GitHub profile with dot-art portrait and full-stack tech showcase |
+| Explore your repos | Add your best projects and featured work here |
 
 ---
 
@@ -78,8 +75,8 @@ I'm a passionate developer focused on building scalable, maintainable solutions.
 
 ## 🎯 Current Focus
 
-- 🔭 Building full-stack applications
-- 🌱 Deepening knowledge of system design
+- 🔭 Building full-stack applications with modern frameworks
+- 🌱 Deepening knowledge of system design and scalability
 - 🤝 Open to collaborations on interesting projects
 - 💡 Always learning and experimenting with new technologies
 
@@ -95,9 +92,9 @@ Feel free to reach out! I'm always interested in discussing new ideas, collabora
 
 ---
 
-<div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid rgba(0, 217, 255, 0.2);">
+<div align="center" style="margin-top: 40px; padding-top: 20px; border-top: 1px solid rgba(0, 217, 255, 0.2);">
 
-**Made with ❤️ · Designed for the developer community**
+**Made with ❤️ · Building elegant solutions**
 
 </div>
 
