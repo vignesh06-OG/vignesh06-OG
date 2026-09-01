@@ -105,7 +105,7 @@ A carbon footprint awareness platform that doesn't stop at reporting: it predict
 <summary><sub>COLOPHON</sub></summary>
 
 <p>
-The portrait above is not an AI-generated avatar. It is a deterministic reconstruction of a real photograph: GrabCut silhouette extraction, mask-aware luminance normalization, and ~16,000 particles sampled from the actual pixel values — darker regions get sparser, larger, deeper-colored dots; brighter regions get denser, smaller, whiter dots. No generative model, no redrawn face. Generated with Python, NumPy, OpenCV, Pillow, and hand-written SVG output.
+The portrait above is not an AI-generated avatar. It is a deterministic reconstruction of a real photograph: GrabCut silhouette extraction, mask-aware luminance normalization, and ~21,000 particles sampled from the actual pixel values — darker regions get sparser, larger, deeper-colored dots; brighter regions get denser, smaller, whiter dots. No generative model, no redrawn face. Generated with Python, NumPy, OpenCV, Pillow, and hand-written SVG output.
 </p>
 
 </details>
