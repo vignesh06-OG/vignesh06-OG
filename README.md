@@ -1,140 +1,119 @@
-<div align="center">
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
 
-![Vignesh Gandhi - Developer Portrait](assets/portrait.svg)
+[![Vignesh Gandhi — dot portrait](assets/dot-portrait.svg)](https://github.com/vignesh06-OG)
+
+</td>
+<td valign="top">
+
+<sub>HI THERE 👋</sub>
 
 ### VIGNESH GANDHI
-**Engineer • Builder • Problem Solver**
 
-Crafting elegant solutions to complex problems. Full-stack developer with depth in AI/ML, deterministic systems, and user-centered design.
+**Developer · Builder · Problem Solver**
 
-<p>
-  <a href="https://github.com/vignesh06-OG" target="_blank" style="text-decoration: none; margin: 0 12px;">
-    <code style="background: rgba(0, 212, 255, 0.1); padding: 4px 8px; border-radius: 3px; color: #00d4ff; font-size: 12px;">GitHub</code>
-  </a>
-  <a href="mailto:gandhivighnesh415@gmail.com" target="_blank" style="text-decoration: none; margin: 0 12px;">
-    <code style="background: rgba(0, 212, 255, 0.1); padding: 4px 8px; border-radius: 3px; color: #00d4ff; font-size: 12px;">Email</code>
-  </a>
-  <a href="https://linkedin.com/in/vignesh06-og" target="_blank" style="text-decoration: none; margin: 0 12px;">
-    <code style="background: rgba(0, 212, 255, 0.1); padding: 4px 8px; border-radius: 3px; color: #00d4ff; font-size: 12px;">LinkedIn</code>
-  </a>
-</p>
+SY E&TC engineering student (KKWIEER · SPPU) building across the stack — from AI products and hackathon builds to embedded systems and open source. I ship things that run, then I explain how they work.
 
----
+&nbsp;
 
-</div>
+[<code>github/vignesh06-OG</code>](https://github.com/vignesh06-OG)
+<br>
+[<code>linkedin/in/vignesh-gandhi-940a55385</code>](https://www.linkedin.com/in/vignesh-gandhi-940a55385/)
+<br>
+[<code>gandhivighnesh415@gmail.com</code>](mailto:gandhivighnesh415@gmail.com)
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## SELECTED WORK
 
-### **PRISM — Light-Refraction Logic Puzzle Platform**
+<sub>Four builds, each with a live demo and the engineering called out honestly.</sub>
 
-A deterministic optical logic puzzle engine with 13 hand-built campaign levels, three real-world physics field missions, and an ML-powered difficulty estimation system.
+### PRISM — Light-Refraction Logic Platform
+<sub>PUZZLE ENGINE · AI/ML · HACKATHON</sub>
 
-**Technical Depth:**
-- Deterministic beam engine with complete light simulation (reflection, dispersion, color mixing, total internal reflection)
-- Exhaustive BFS solver validating every puzzle with proven optimal solutions
-- PhotonMind: distillation ML model (ridge regression) for difficulty prediction with explainability
-- Living rulebook: unlocks 7 optical laws only when player discovers them
-- Field missions: real geometric calculations (Snell's law, minimum deviation)
-- Full accessibility: color-blind glyphs, keyboard play, reduced-motion, WCAG-tested
-- React 19 · TanStack Start · SVG rendering · Tailwind v4 · localStorage + Postgres backend
+A deterministic optical puzzle engine: 13 hand-built campaign levels, three physics field missions, an exhaustive BFS solver that proves every par value, and **PhotonMind** — a ridge-regression distillation model that estimates difficulty with per-feature explanations, compared against baselines in-app rather than sold as an oracle. Includes PRISM Studio for designing and validating your own boards.
 
-**Demo:** [brain-game-blitz.vercel.app](https://brain-game-blitz.vercel.app/)  
-**Code:** [github.com/vignesh06-OG/prism](https://github.com/vignesh06-OG/prism)
+`React 19` `TanStack Start` `Tailwind v4` `SVG` `BFS Solver` `Ridge Regression` `Postgres`
+
+▶ **Live demo** · [brain-game-blitz.vercel.app](https://brain-game-blitz.vercel.app/) &nbsp;·&nbsp; **Code** · [vignesh06-OG/prism](https://github.com/vignesh06-OG/prism)
 
 ---
 
-### **Resolve 90 — AI Stadium Incident Command**
+### Resolve-90 — AI Stadium Incident Command
+<sub>RESPONSIBLE AI · DDD · ACCESSIBILITY</sub>
 
-A grounded GenAI incident-to-action compiler that turns fragmented signals into auditable, human-approved intervention plans under 90 seconds.
+A grounded GenAI incident-to-action compiler that turns fragmented stadium signals into one auditable decision packet a human commander can approve in under 90 seconds. Domain-driven ports/adapters architecture, schema-validated structured generation with guardrails and counterfactuals, deterministic replay mode for reproducible judging, WCAG 2.2 AA, CI with Playwright, coverage and budget gates.
 
-**Technical Depth:**
-- Domain-driven architecture: presentation ↔ application ↔ domain (ports/adapters)
-- Responsible AI: schema validation, guardrail challenge, counterfactuals, explainability
-- Evidence narrative: every recommendation includes evidence, alternatives, confidence, ownership
-- Quality gates: strict TypeScript, E2E tests, Lighthouse thresholds, bundle budgets, coverage >95%
-- WCAG 2.2 AA accessibility · structured generation to Gemini with fallback replay mode
-- React · Vite · TypeScript strict · Zod · Playwright · GitHub Actions CI/CD
+`TypeScript strict` `React` `Zod` `Gemini` `Playwright` `GitHub Actions` `WCAG 2.2 AA`
 
-**Key Features:**
-- Deterministic replay mode for offline reproducible judging
-- Decision chain: signals → grounding → generation → guardrails → counterfactuals → approval
-- Live demo with realistic stadium disruption scenario
-
-**Code:** [github.com/vignesh06-OG/resolve-90](https://github.com/vignesh06-OG/resolve-90)
+▶ **Live demo** · [resolve-90.vercel.app](https://resolve-90.vercel.app/) &nbsp;·&nbsp; **Code** · [vignesh06-OG/resolve-90](https://github.com/vignesh06-OG/resolve-90)
 
 ---
 
-### **TalentLens AI — Recruiter-Trustable Candidate Discovery**
+### TalentLens AI — Recruiter-Trustable Candidate Discovery
+<sub>SEMANTIC SEARCH · EXPLAINABLE RANKING · ZERO BACKEND</sub>
 
-An AI recruiting engine that ranks talent through semantic matching, trust scoring, and explainable counterfactual reasoning. Zero backend. Zero external dependencies. Browser-only.
+An AI recruiting engine that defensibly ranks talent: JD parsing against a 100+ node skill ontology with aliases, a four-signal ranking fuse, and an explainability layer that shows confidence, evidence coverage, risk and counterfactuals ("why not #1?") — plus an ATS-vs-TalentLens comparison that exposes candidates keyword filters miss. Entirely client-side; one file, zero dependencies, zero backend.
 
-**Technical Depth:**
-- Deep JD parser: extracts skills, seniority, years, must-have vs nice-to-have, domain
-- 100+ node skill ontology with aliases: `k8s → kubernetes`, `GenAI → LLM`, etc.
-- Trust Engine: confidence %, evidence coverage %, risk level, discovery potential
-- 4-signal ranking: semantic fit + experience + career trajectory + activity signals
-- Counterfactual analysis: "Why not #1?" with estimated score gain and potential rank
-- ATS vs TalentLens comparison: exposes hidden talent missed by keyword filtering
-- Vanilla JS · HTML · CSS · zero dependencies · client-side only · 19 passing tests
+`Vanilla JS` `HTML` `CSS` `Client-side ML` `Explainability`
 
-**Demo:** [talen-tlens-ai.vercel.app](https://talen-tlens-ai.vercel.app/)  
-**Code:** [github.com/vignesh06-OG/TALENTlens-AI](https://github.com/vignesh06-OG/TALENTlens-AI)
+▶ **Live demo** · [talen-tlens-ai.vercel.app](https://talen-tlens-ai.vercel.app/) &nbsp;·&nbsp; **Code** · [vignesh06-OG/TALENTlens-AI](https://github.com/vignesh06-OG/TALENTlens-AI)
+
+---
+
+### EcoTwin AI — Environmental Decision Engine
+<sub>CLIMATE · PREDICTION · BEHAVIOR CHANGE</sub>
+
+A carbon footprint awareness platform that doesn't stop at reporting: it predicts, verifies and optimizes. An Eco Impact Index across carbon, energy, water and waste, an evidence-confidence layer that checks bills and receipts, a Climate ROI engine that ranks actions by CO₂ saved, cost and effort — and a week-by-week reduction roadmap engine.
+
+`TypeScript` `Next.js` `Explainable AI` `Vercel`
+
+▶ **Live demo** · [ecotwin-ai-gamma.vercel.app](https://ecotwin-ai-gamma.vercel.app/) &nbsp;·&nbsp; **Code** · [vignesh06-OG/ecotwin-ai](https://github.com/vignesh06-OG/ecotwin-ai)
 
 ---
 
 ## TECH STACK
 
-**Languages**  
-C++ · C · Python · TypeScript · JavaScript · HTML · CSS
+<sub>What actually shows up in the repositories above.</sub>
 
-**Frontend**  
-React · Next.js · TanStack Start/Router · Tailwind CSS · Motion for React · SVG
+**Languages** — `TypeScript` `JavaScript` `Python` `C` `C++` `HTML` `CSS`
 
-**Backend & AI/ML**  
-Node.js · Express · Python (scikit-learn, numpy) · Gemini API · Ridge Regression · BFS Algorithms
+**Frontend** — `React 19` `Next.js` `TanStack Start/Router` `Tailwind CSS` `SVG` `Motion`
 
-**Data & Infrastructure**  
-PostgreSQL · SQLite · localStorage · Zod (validation) · JOSE (auth)
+**Backend & Data** — `Node.js` `PostgreSQL` `Zod` `Gemini API` `localStorage`
 
-**Quality & DevOps**  
-TypeScript strict · ESLint · Playwright · GitHub Actions · Lighthouse · Bundle analysis · Docker
+**AI / ML** — `Ridge Regression (distilled models)` `BFS Solvers` `Feature Attribution` `Structured Generation + Guardrails`
+
+**Tooling** — `TypeScript strict` `ESLint` `Playwright` `Vitest` `GitHub Actions` `Vercel`
 
 ---
 
-## ENGINEERING PHILOSOPHY
+## OPEN SOURCE & EVENTS
 
-**Determinism Over Approximation**  
-When correctness matters, exhaustive validation wins. BFS solvers, not heuristics. Deterministic replay, not probabilistic sampling.
+**GSSoC '26 contributor** — three merged PRs to `arnio` and `ADIUVARE` (JSON export, regression-testing improvements, UI fixes).
 
-**Domain-Driven Architecture**  
-Clean separation of business logic from presentation. Ports and adapters. Testable, maintainable, scalable.
-
-**Explainability Built In**  
-Not bolted on. Every score carries evidence, every decision shows reasoning, every recommendation is auditable.
-
-**Accessibility as First-Class**  
-Not an afterthought. Color-blind modes, keyboard navigation, reduced motion, WCAG standards from day one.
+**Hackathons** — Puzzle Masters Hackathon (PRISM), SuperXgen Startup Buildathon (GlamBook AI), BuildFest (Cyber Pulse), Google Developer Skills Hackathon, Elite Coders Open Source Hackathon.
 
 ---
 
-## INTERESTS
+<details>
+<summary><sub>COLOPHON</sub></summary>
 
-🔭 **Currently Exploring**
-- Optical simulation and physics-based puzzles
-- Responsible AI governance and decision support
-- Deterministic algorithms and mathematical rigor
-- Accessible design for complex interfaces
+<p>
+The portrait above is not an AI-generated avatar. It is a deterministic reconstruction of a real photograph: GrabCut silhouette extraction, mask-aware luminance normalization, and ~16,000 particles sampled from the actual pixel values — darker regions get sparser, larger, deeper-colored dots; brighter regions get denser, smaller, whiter dots. No generative model, no redrawn face. Generated with Python, NumPy, OpenCV, Pillow, and hand-written SVG output.
+</p>
 
-🌱 **Passionate About**
-- Clean architecture and maintainable systems
-- AI explainability and trust
-- Developer tooling and productivity
-- Open source and community
+</details>
 
----
+<br>
 
 <div align="center">
 
-**Building systems with intention. Code with craft.**
+<sub>26 public repositories · every ship has a live demo · built with intention</sub>
 
 </div>
